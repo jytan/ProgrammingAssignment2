@@ -22,7 +22,8 @@
 
 
 ## makeCacheMatrix
-## This function creates a list containing a function to:
+## This function creates a special "matrix" object that can cache  
+## its inverse by creating a list containing a function to:
 ## 1. set the value of the matrix
 ## 2. get the value of the matrix
 ## 3. set the inverse of the matrix
